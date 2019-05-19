@@ -1,0 +1,15 @@
+body {
+    background: rgba(163, 163, 163, 0.51);
+    text-align: center;
+}
+table {
+    border-spacing: 0 10px;
+    font:  bold 100% Georgia, serif;
+    margin: 40px auto;
+    text-shadow: 5px 5px 5px rgba(25, 25, 25, 0.93);
+    background: #B1B9D9;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    border: 10px solid rgba(37, 37, 37, 0.89);
+}
